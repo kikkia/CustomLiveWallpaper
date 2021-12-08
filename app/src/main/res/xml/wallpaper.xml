@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wallpaper
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="Wallpaper Service"
+    android:thumbnail="@mipmap/ic_launcher"
+    android_settingsActivity="com.kikkia.customlivewallpaper.LWPSettings">
+</wallpaper>
